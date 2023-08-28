@@ -7,7 +7,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
+
 //This is an example for mouse hover automation
+
+//This is mouse actions example
+
 public class MouseHoverExample {
 
 	public static void main(String[] args) {
